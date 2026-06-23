@@ -52,7 +52,7 @@ Linear Regression, Random Forest, XGBoost, Gradient Boosting with 5-fold cross-v
 ## Key Findings
 
 - The majority of Bay Area schools saw lower math scores in 2023 than 2019
-- Pre-COVID baseline score is the strongest predictor -- schools that started higher tended to fall further
+- Pre-COVID baseline score is the strongest predictor schools that started higher tended to fall further
 - No single demographic factor dominates, which explains the low overall R²
 - The feature ceiling suggests missing drivers: how long districts stayed remote, chronic absenteeism rates, per-pupil spending on recovery programs, and teacher turnover
 
