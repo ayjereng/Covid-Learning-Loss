@@ -8,7 +8,7 @@ Can school-level demographic factors predict which Bay Area schools were hit har
 
 This project analyzes math learning loss across Bay Area public schools by comparing California CAASPP assessment scores from 2019 (pre-pandemic) to 2023 (recovery period). We engineer school-level demographic features from California Department of Education data and train regression models to predict school-level score decline.
 
-**Finding:** School demographics explain only about 20% of variance in learning loss. The pandemic's impact did not simply follow pre-existing demographic lines -- district-level policy decisions were the primary driver.
+**Finding:** School demographics explain only about 20% of variance in learning loss. The pandemic's impact did not simply follow pre-existing demographic lines district-level policy decisions were the primary driver.
 
 ---
 
